@@ -1,4 +1,4 @@
-# Day 03 - Behavioral Modeling in Verilog
+# Day 04 - Behavioral Modeling in Verilog
 
 ## Objective
 Learned behavioral modeling using always block, if-else, and case statements.
@@ -35,12 +35,7 @@ Encodes highest priority input into binary output.
 - priority_encoder.v
 - testbenches
 
----
 
-## Simulation
-(Add waveform screenshots)
-
----
 
 ## Key Learnings
 - Learned always block usage
