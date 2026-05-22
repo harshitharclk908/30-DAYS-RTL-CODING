@@ -1,11 +1,27 @@
-*.jou
+# Vivado project files
+*.xpr
 *.log
+*.jou
 *.str
-*.wdb
+*.debug
+*.rpt
 
-*.cache
-*.hw
-*.sim
-*.ip_user_files
-*.runs
-*.Xil
+# Vivado generated folders
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Simulation outputs
+xsim.dir/
+*.wdb
+*.pb
+*.vcd
+
+# Temporary OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
